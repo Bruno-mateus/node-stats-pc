@@ -4,7 +4,8 @@
   "main": "server.js",
   "license": "MIT",
   "scripts": {
-    "start":"nodemon server.js"
+    "start":"nodemon server.js",
+    "api":"nodemon api/index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
